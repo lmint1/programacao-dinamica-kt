@@ -1,6 +1,6 @@
 # Programação Dinâmica 
 Implementações dos exemplos comentados nesse artigo:  
-* [Programação Dinâmica vs Memoization]()
+* [Programação Dinâmica vs Memoization](https://medium.com/@lemint.dev/programação-dinâmica-vs-memoization-9777486c3c2a)
 
 ### Função fibonacci
 Complexidade: O(2^n)
